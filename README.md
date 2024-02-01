@@ -45,7 +45,7 @@ Mobile error state
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Ping-coming-soon-page.git)
-- Live Site URL: [Dunniola](https://your-live-site-url.com)
+- Live Site URL: [Github App](https://dunniola.github.io/Ping-comming-soon-page/)
 
 ## My process
 
@@ -59,7 +59,7 @@ Mobile error state
 
 ## Author
 
-- Website - [Dunniola](https://www.your-site.com)
+- Website - [Dunniola](https://dunniola.github.io/Ping-comming-soon-page/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
