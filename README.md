@@ -44,7 +44,7 @@ Mobile error state
 
 ### Links
 
-- Solution URL: [View Demo](https://github.com/Dunniola/Ping-coming-soon-page.git)
+- Solution URL: [View Demo](https://github.com/Dunniola/Ping-comming-soon-page.git)
 - Live Site URL: [Github App](https://dunniola.github.io/Ping-comming-soon-page/)
 
 ## My process
